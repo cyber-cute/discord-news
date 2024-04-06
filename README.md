@@ -11,3 +11,6 @@ MONGO="mongodb+srv://"
 Also, you should check this line occasionally because /data/5Dz_UiVJXTWIp-h2oMbin/ may vary: [here](https://github.com/cyber-cute/discord-news/blob/main/src/utils/fetchNews.js#L5)
 
 Thank you [Tolgchu](https://github.com/Tolga1452) for the discord.js template for this bot
+
+![resim](https://github.com/cyber-cute/discord-news/assets/71833103/fb05f8b3-50c4-4d50-8a27-dc89240131bd)
+![resim](https://github.com/cyber-cute/discord-news/assets/71833103/0c796931-8f93-41cd-ae9a-ad841bc79db2)
